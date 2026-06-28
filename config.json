@@ -1,0 +1,11 @@
+{
+  "download_dir": "./downloads",
+  "timeout": 15,
+  "retry": 3,
+  "delay": 0.3,
+  "max_redirects": 5,
+  "convert_to_jpg": true,
+  "jpg_quality": 92,
+  "min_image_bytes": 1024,
+  "max_image_bytes": 52428800
+}
