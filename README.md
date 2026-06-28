@@ -53,6 +53,7 @@ python image_downloader.py <url> --no-convert           # 保留原格式
 - qinpuwang.com（琴谱网）
 - jitashe.net（吉他社）
 - jtp123.com（吉他谱123）
+- 本人是个吉他手，平时需要下载一些免费的吉他谱，所以写了这个项目，只用于提供免费的曲谱网站使用且测试学习用，避免白嫖收费的曲谱，尊重知识产权和别人的劳动。
 
 ## 依赖
 
