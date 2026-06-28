@@ -1,0 +1,27 @@
+# Downloaded images
+downloads/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temp files
+_fix_headers.py
+debug_page.py
+test.txt
+2.28
+4.11
+9.0
+
+# Config with personal settings
+# config.json
